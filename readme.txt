@@ -8,4 +8,7 @@ git tracks changes.
 
 Creating a new branch is quick and simple.
 
-fixed the bug
+fixed the bug.
+
+
+This is a yhy's git-learning dir
